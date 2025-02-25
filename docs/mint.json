@@ -89,7 +89,6 @@
         "handbook/teams/management-features",
         "handbook/teams/human-in-loop",
         "handbook/teams/pieces",
-        "handbook/teams/platform-admin",
         "handbook/teams/sales",
         "handbook/teams/tables"
       ]
@@ -221,6 +220,17 @@
           "pages": [
             "endpoints/project-releases/schema",
             "endpoints/project-releases/create"
+          ]
+        },
+        {
+          "group": "Global Connections",
+          "icon": "globe",
+          "pages": [
+            "endpoints/global-connections/schema",
+            "endpoints/global-connections/upsert",
+            "endpoints/global-connections/update",
+            "endpoints/global-connections/list",
+            "endpoints/global-connections/delete"
           ]
         },
         {
